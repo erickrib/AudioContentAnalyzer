@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "offensiveaudioclassifier",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/erickrib/OffensiveAudioClassifier",
+      "state" : {
+        "revision" : "69d121683fc9351f1cda8f1cfa8225ce9bb8e316",
+        "version" : "1.0.7"
+      }
+    }
+  ],
+  "version" : 2
+}
